@@ -1,4 +1,11 @@
 <?php 
+echo "sss";
+
 phpinfo();
+
+
+
+
+
 
 ?>
