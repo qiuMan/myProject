@@ -1,10 +1,4 @@
 <?php 
-class name {
-	function __construct()
-	{
-		echo __METHOD__;
-	}
-}
+echo 'qwl-other';
 
 ?>
-git
