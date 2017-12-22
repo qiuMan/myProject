@@ -1,10 +1,10 @@
 <?php 
-phpinfo();
-
-function test()
-{
-	echo 'test';
+class name {
+	function __construct()
+	{
+		echo __METHOD__;
+	}
 }
 
-
 ?>
+git
