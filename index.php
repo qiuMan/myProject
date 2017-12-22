@@ -1,10 +1,5 @@
 <?php 
-phpinfo();
-
-function test()
-{
-	echo 'test';
-}
+echo "dev";
 
 
 ?>
