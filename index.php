@@ -1,10 +1,5 @@
-<?php 
-
+<?php
 echo "master";
 
-
-
-
-
-
 ?>
+
