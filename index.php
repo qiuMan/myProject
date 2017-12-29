@@ -1,4 +1,8 @@
-<?php 
-echo 'qwl-other';
+<?php
+include 'Wx.php';
+
+$class = new Wx();
+$class->login();
+
 
 ?>

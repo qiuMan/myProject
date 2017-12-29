@@ -8,5 +8,30 @@
  */
 class Site
 {
+    function __construct()
+    {
+        echo __METHOD__;
+    }
+
+    function add()
+    {
+
+    }
+
+    /**
+     * 编辑
+     */
+    function edit()
+    {
+
+    }
+
+    /**
+     * 删除
+     */
+    function del()
+    {
+
+    }
 
 }
